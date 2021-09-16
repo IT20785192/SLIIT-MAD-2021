@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    //hey Food delivery App
+    //hey Food delivery App5555555555555555555555555
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
